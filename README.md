@@ -70,7 +70,7 @@ Here’s the breakdown of the top data analyst jobs in 2023:
 
 - **📌 Job Title Variety:** There's a wide range of titles — from *Data Analyst* to *Director of Analytics* — reflecting different specializations and career paths.
 
-*simliary done for other ones*
+*simliary done for other queries*
 
 
 # What I Learned
